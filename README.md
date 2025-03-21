@@ -30,7 +30,7 @@ API: Reqres.in (Mock API)
 ┣ 📂 src
 ┃ ┣ 📂 components
 ┃ ┃ ┣ 📜 Navbar.jsx
-┃ ┃ ┣ 📜 UserCard.jsx
+┃ ┃ 
 ┃ ┣ 📂 pages
 ┃ ┃ ┣ 📜 Login.jsx
 ┃ ┃ ┣ 📜 Register.jsx
